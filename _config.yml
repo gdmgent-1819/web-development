@@ -1,14 +1,14 @@
 # Site settings
 # -------------
-baseurl : /html-css # the subpath of your site, e.g. /blog
+baseurl : /web-development # the subpath of your site, e.g. /blog
 host    : 127.0.0.1
-port    : 4109
+port    : 4900
 
 # Course
 # ------
-syllabus-id: 1819-HTML-CSS
+syllabus-id: 1819-WEB-DEV
 
-hero_introduction : Syllabus voor het onderdeel HTML & CSS
+hero_introduction : Syllabus voor het onderdeel Web Development
 hero_image        : /syllabus-resources/assets/images/header-dev.jpg
 words_per_minute  : 60
 
