@@ -8,8 +8,8 @@
   # activate-nr: true
 
 -
-  name: Colleges Client-Side
-  description: Colleges Client-Side
+  name: Client-Side
+  description: Client-Side
   icon: fas fa-fw fa-graduation-cap
   folder: pages/content/client-side/
   permalink: client-side/introductie/
@@ -17,21 +17,12 @@
   # activate-nr: true
 
 -
-  name: Colleges Server-Side
-  description: Colleges Server-Side
+  name: Server-Side
+  description: Server-Side
   icon: fas fa-fw fa-graduation-cap
   folder: pages/content/server-side/
   permalink: server-side/introductie/
   # nr: III
-  # activate-nr: true
-
--
-  name: Opdrachten
-  description: Opdrachten
-  icon: fas fa-fw fa-pencil-alt
-  folder: pages/assignments/
-  permalink: assignments/introductie/
-  # nr: IV
   # activate-nr: true
 
 -
@@ -40,14 +31,5 @@
   icon: fas fa-fw fa-bookmark 
   folder: references/reference-php/
   permalink: reference/php/
-  # nr: VI
-  # activate-nr: true
-
--
-  name: Style Guide
-  description: Style Guide
-  icon: fas fa-fw fa-wrench
-  folder: syllabusv2-resources/pages/styleguide/
-  permalink: styleguide/
-  # nr: VII
+  # nr: IV
   # activate-nr: true
