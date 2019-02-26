@@ -1,18 +1,18 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/.sass-cache": true,
-        "**/.vscode": true,
-        "**/shared": true,
-        "**/_site": true,
-        "**/syllabusv2-resources": true,
-        "**/Gemfile": true,
-        "**/Gemfile.*": true,
-        "**/.git*": true
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/.sass-cache": false,
+        "**/.vscode": false,
+        "**/shared": false,
+        "**/_site": false,
+        "**/syllabusv2-resources": false,
+        "**/Gemfile": false,
+        "**/Gemfile.*": false,
+        "**/.git*": false
     }
 }
